@@ -4,7 +4,7 @@ displayName: PRPipeline
 stages:
   - stage: 
     name: compile
-    displayName: 编译1
+    displayName: 编译11
     steps:
       - step: build@maven
         name: build_maven
