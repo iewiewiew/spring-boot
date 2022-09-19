@@ -3,7 +3,7 @@ name: branch-pipeline
 displayName: BranchPipeline
 stages:
   - stage: 
-    name: compile1
+    name: compile
     displayName: 编译
     steps:
       - step: build@maven
