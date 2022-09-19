@@ -1,13 +1,13 @@
-package com.gitee.giteego.springboot.mavendemo;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MavenDemoApplication {
+public class SpringBootHelloWorldApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MavenDemoApplication.class, args);
+        SpringApplication.run(SpringBootHelloWorldApplication.class, args);
     }
 
 }
