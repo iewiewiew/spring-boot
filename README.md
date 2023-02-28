@@ -224,3 +224,10 @@ http://www.example.com
 
 禁用自动URL链接
 `http://www.example.com`
+
+# 22、下划线
+<u>下划线</u>
+$\underline{\test}}$
+
+## 23、上划线
+$\overline{\test}}$
